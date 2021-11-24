@@ -34,7 +34,7 @@ public class Bankomat {
                 }
 
                 if (selection == 4) {
-
+                    break;
                 }
 
             }
